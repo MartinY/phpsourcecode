@@ -1,6 +1,8 @@
 <?php
 
-if (isset($_GET['phpShowSource'])) { include "phpSourceCode.php"; }
+if (isset($_GET['phpShowSource'])) {
+	include "phpSourceCode.php";
+}
 
 /* INICIO - Seccion 1: Imagenes */
 
